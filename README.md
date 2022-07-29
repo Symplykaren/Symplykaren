@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karen.
 - 👀 I’m interested in AI and Machine learning.
-- 🌱 I’m currently learning how to build models for multimodal emotion recognition and medical image analysis for different research topics.
+- 🌱 Currently working on Mental Health Diagnosis.
 - 📫 You can shoot me an email at kareniyortsuun@gmail.com
 
 <!---
