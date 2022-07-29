@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karen.
 - 👀 I’m interested in AI and Machine learning.
-- 🌱 Currently working on Mental Health Diagnosis.
+- 🌱 Currently working on Mental Health Diagnosis with AI/ML.
 - 📫 You can shoot me an email at kareniyortsuun@gmail.com
 
 <!---
