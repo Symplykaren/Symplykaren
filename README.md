@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karen.
-- 👀 I’m interested in AI and Machine learning.
+- 👀 Interested in Machine learning.
 - 🌱 Currently working on Depression Intensity and treatment outcome estimation.
 - 📫 You can shoot me an email at kareniyortsuun@gmail.com
 
