@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karen.
 - 👀 Interested in Machine learning.
-- 🌱 Currently working on Depression Intensity and treatment outcome estimation at the Pattern Recognition Lab at CNU.
+- 🌱 Currently working on Depression Intensity and treatment outcome estimation at Pattern Recognition Lab at CNU.
 - 📫 You can shoot me an email at kareniyortsuun@gmail.com
 
 <!---
